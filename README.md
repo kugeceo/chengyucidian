@@ -47,7 +47,8 @@ http://www.luhui.net/cn/book
 
 
 
-
+![image](https://github.com/user-attachments/assets/0510b394-43d6-4ae5-bd7d-e990ae50eb09)
+我有才，你有财，互帮互助，造福人类，加油！
 
 
 
