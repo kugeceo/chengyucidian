@@ -6,6 +6,18 @@ https://github.com/kugeceo/chengyucidian
 
 用PHP语言几百行代码手搓了一套电子版成语词典，php+txt文本数据库和一个logo，精简到总共就三个文件，自适应显示兼容各种客户端，实现可以快速查询字词，查看每个成语的解释，内容可以无限扩展。txt文本方便随时随地在各种环境各种客户端下更新，按此思路可以衍生出很多工具，根据以前收集测试整合的数据库资源，已经衍生完成偏方词典，基督教圣经话典；中草药方剂法典；歇后语词典，更新收录新编歇后语；成语词典，收集收录成语新编。计划制作对联词典，收集收录更新对联库；江湖黑话词典，收录江湖黑话暗语；五金词典等工具书。短小精悍的成语词典程序，无需安装数据库，基于网上网下的成语词典数据资源整合开发，希望对大家有用。程序采用关系型文本数据库技术：
 
+源代码地址：
+https://github.com/kugeceo/chengyucidian
+
+![luhuichengyucidian1](https://github.com/user-attachments/assets/14d56990-165f-4cc7-81fe-a99ea1a8f628)
+![luhuichengyucidian2](https://github.com/user-attachments/assets/d0ee0e7d-c8a6-4de5-8da1-b0593153895e)
+![luhuichengyucidian5](https://github.com/user-attachments/assets/3a99ebc8-344f-4fbd-bc54-2397c1da5eb7)
+![luhuichengyucidian4](https://github.com/user-attachments/assets/35e5df8a-4df6-44e8-ba17-e9eb64719a0d)
+![luhuichengyucidian3](https://github.com/user-attachments/assets/2a5ca0a3-f770-4668-9d06-95f33eb03b70)
+
+演示地址：
+http://www.luhui.net/cn/book 
+
 鲁虺成语词典说明
 成语词典是一种专门收录成语的工具书。
 
@@ -23,15 +35,6 @@ https://github.com/kugeceo/chengyucidian
 
 总之，成语词典是一座丰富的语言宝库，为人们学习和使用成语提供了便利和指导。
 
-
-
-
-页面截图
-image
-
-
-
-成语词典
 
 
 
